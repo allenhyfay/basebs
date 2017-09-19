@@ -17,6 +17,7 @@ public class CrawlInputBO
     private String prompt;
     private String styleId;
     private String restrictions;
+
     private String isRequired;
 
     private String controlProp;//属性的值
